@@ -3,8 +3,6 @@
 //
 // usage:  insert_sort num1 num2 num3 ..., where the numi are the numbers to
 // be sorted
-#include <stdlib.h>
-#include <stdio.h>
 
 int x[10],  // input array
     y[10],  // workspace array  
