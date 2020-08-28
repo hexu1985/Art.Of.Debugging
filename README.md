@@ -9,4 +9,4 @@
 
 ### [第二章 暂停机制](chapter-02/README.md)
 
-- [断点概述](chapter-02/recipe-02/README.md)
+- [断点概述](chapter-02/recipe-01/README.md)
